@@ -1,0 +1,220 @@
+body {
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url(https://lh3.googleusercontent.com/a2ta7iPqUWxWyGa-K2iKtLOvlHgkiALpqyYEktvTCTcg2AlheoNF6YkcrwXrKvcOpjkUVgE7vDoVGPMFveu2LvxMD9KElpUbmZal1e8nVOsZqBmXp_LnrNmVCEe24_STVU0WVtN2mBVRx-GOR2BqDuN-_qszn1ILDQ6rkHVAVAddLZ0vWxLjEPJr9MrgI-a5nLh6_SPYlM9Aw7BVmSK1cU8KaO_woeJJgiQicOkOdXY0IGArseiIgtn_WoW6tfqZvkucu3tsbDayUQYH2o4tg9US_tptUemEuYn_aykmPjeKN_mU--ee2cRFKJY5BZNWo58ad9aVD1e-1_D08IR3OXfzi0KUy9gkp8xY7zsgMgrTA-L7TDbOCTsXsd1QLTn6EQbvF9pkFCexvmF5eUn2rVC6W5RZm3ffcWS96JMqdDl7mmiY3vEH-QdI1XMDogxoONthuuUm6WWpNUpU2enm42JlF7AL-xzMVTkpAwBmk6yOoeiBBEpOFc3v1HdAyp4L8G-BzUAX_9_Kq3zCLddXXkBNBLnaztA0KvRL4a8ZZHb-HdLvGL30oWVl-iLzrpXF81EdtIUa5QoT_dvZ5XRWby1x3qS864V-mthFhoU329Gy0XwkLBvFdOYichdWIYpE4VZiYYU-RrqG_837YaZj74faRoLqwK-y4QA_8ViV09J0zhxkra6gN64dDHtK-8wV5mFga6wQchxA6lrAnlJtuuE=w1718-h967-no?authuser=1);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* NAVBAR */
+
+.navbar {
+  background-color: #4C6A6E;
+}
+
+.navbar-item {
+  color: white !important
+}
+
+.custom-btn {
+  font-family: 'Raleway', sans-serif !important;
+  font-weight: 600 !important;
+  border: none !important;
+  color: white !important;
+  background-color: rgba(0,0,0,0) !important;
+}
+
+.itemStyle {
+  color: rgba(255,255,255,.8) !important
+}
+
+.whiteBar {
+  background-color: white;
+  height: 10px;
+}
+
+#basic-nav-dropdown {
+  color: rgba(255,255,255,.8) !important
+}
+
+/* FOOTER */
+.footer{
+  background-color: rgb(51,51,51);
+  padding-top: 20px;
+  padding-left: 20% !important;
+  padding-right: 20% !important;
+  max-width: 100% !important;
+}
+.footerItems {
+  text-align: center;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500 !important;
+  padding-bottom: 35px;
+}
+
+.footerText {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.subscribeBox {
+  background-color: rgb(85,85,85);
+  max-width: 100%;
+  padding: 15px !important;
+}
+
+.subscribeButton {
+  background-color: rgb(200,200,200) !important;
+  color:black !important;
+  border:none !important;
+  border-radius: 0% !important;
+  text-align: center !important;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600 !important;
+}
+
+.subscribeButton:hover {
+  background-color: rgb(250,250,250) !important;
+}
+
+.emailBox {
+  background-color: rgb(130,130,130) !important;
+  color: white !important;
+  border: none !important;
+  max-width: 100%;
+  border-radius: 0% !important;
+}
+
+.form-control::-webkit-input-placeholder {
+  color: white !important;
+}
+
+/* HOME */
+.featBox {
+  background-color: rgba(81,81,81,.5);
+  padding: 3vw 0;
+  margin: auto;
+  text-align: center;
+}
+
+.featText {
+  font-family: 'Spinnaker', sans-serif;
+  color: white;
+  font-weight: 700;
+  letter-spacing: 0.92px;
+  font-size: 46px;
+}
+
+.featButton {
+  letter-spacing: 0.5px;
+  background-color: rgb(85,85,85) !important;
+  color:white !important;
+  border-radius: 0px !important;
+  border:none !important;
+  align-items: center;
+  font-size: 18px !important;
+}
+
+.featButton:hover {
+  background-color: rgb(250,250,250) !important;
+  color: rgb(85,85,85) !important;
+}
+.newReleaseDiv {
+  background-color: rgb(102,102,102);
+  color: white;
+  height: 3rem;
+  text-align: center;
+  letter-spacing: 3.9px;
+  padding: 10px;
+  font-weight: 500;
+}
+
+.newReleaseText {
+  font-family: 'Spinnaker', sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: 10.8px;
+  color: rgb(85,85,85);
+}
+
+.newReleaseText2 {
+  font-family:'Raleway',sans-serif; 
+  font-size:19px; 
+  font-weight:600; 
+  letter-spacing:0.3em; 
+  text-align:center
+}
+
+.cardBtn {
+  background-color: rgb(51,51,51) !important;
+  border-radius: 0px !important;
+  border: none !important;
+  letter-spacing: 0.8px;
+  color: white !important;
+  width: 100%;
+  font-weight: 600;
+}
+
+.cardBtn:hover {
+  background-color: rgb(90,90,90) !important;
+}
+
+/* About Us */
+
+.aboutUsTitle {
+  font-family: 'Spinnaker', sans-serif;
+  font-size: 33px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.aboutUsText {
+  font-family: 'Raleway', sans-serif;
+  font-size: 19px;
+  color: black;
+  font-weight: 700;
+}
+
+.mvTitle {
+  font-family: 'Spinnaker', sans-serif;
+  font-size: 47px;
+  font-weight: 700;
+  color: black;
+  text-align: center;
+}
+
+.mvText {
+  color: rgb(85,85,85);
+  font-family: 'Raleway', sans-serif;
+  font-size: 29px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.centerImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* MultiPurpose */
+
+.parentHeight {
+  height: 100%;
+}
+
+.bgBlue {
+  background-color: rgba(185, 215, 211, 0.4);
+}
+
+
+
