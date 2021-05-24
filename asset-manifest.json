@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fictionhub-reactjs/static/css/main.eb723633.chunk.css",
+    "main.js": "/fictionhub-reactjs/static/js/main.ba13c65e.chunk.js",
+    "main.js.map": "/fictionhub-reactjs/static/js/main.ba13c65e.chunk.js.map",
+    "runtime-main.js": "/fictionhub-reactjs/static/js/runtime-main.eaef58fb.js",
+    "runtime-main.js.map": "/fictionhub-reactjs/static/js/runtime-main.eaef58fb.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/fictionhub-reactjs/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8a10f985.chunk.js": "/fictionhub-reactjs/static/js/2.8a10f985.chunk.js",
+    "static/js/2.8a10f985.chunk.js.map": "/fictionhub-reactjs/static/js/2.8a10f985.chunk.js.map",
+    "static/js/3.754a2a30.chunk.js": "/fictionhub-reactjs/static/js/3.754a2a30.chunk.js",
+    "static/js/3.754a2a30.chunk.js.map": "/fictionhub-reactjs/static/js/3.754a2a30.chunk.js.map",
+    "index.html": "/fictionhub-reactjs/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/fictionhub-reactjs/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.eb723633.chunk.css.map": "/fictionhub-reactjs/static/css/main.eb723633.chunk.css.map",
+    "static/js/2.8a10f985.chunk.js.LICENSE.txt": "/fictionhub-reactjs/static/js/2.8a10f985.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaef58fb.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8a10f985.chunk.js",
+    "static/css/main.eb723633.chunk.css",
+    "static/js/main.ba13c65e.chunk.js"
+  ]
+}
