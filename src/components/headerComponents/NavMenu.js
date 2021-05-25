@@ -20,7 +20,7 @@ function NavMenu() {
     return (
         <div>
             <Navbar className="navbar" variant="dark" expand="lg" sticky="top">
-                <LinkContainer to="/">
+                <LinkContainer to="/fictionhub-reactjs/">
                     <Navbar.Brand style={fhNameStyle}>
                         <Logo height="60px"/>
                         FICTIONHUB
@@ -29,30 +29,21 @@ function NavMenu() {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
-                    <LinkContainer to="/">
+                    <LinkContainer to="/fictionhub-reactjs/">
                         <Nav.Link className="itemStyle">HOME</Nav.Link>
                     </LinkContainer>
-                    <NavDropdown title="SHOP" id="basic-nav-dropdown">
+                    <NavDropdown title="SHOP" id="basic-nav-dropdown" disabled>
                         <NavDropdown.Item href="#">BEST SELLERS</NavDropdown.Item>
                         <NavDropdown.Item href="#">MEGA SALE</NavDropdown.Item>
                         <NavDropdown.Item href="#">STORE</NavDropdown.Item>
                     </NavDropdown>
-                    <NavDropdown title="CONTACT US" id="basic-nav-dropdown">
-                        <NavDropdown.Item href="#">REACH US HERE</NavDropdown.Item>
-                        <NavDropdown.Item href="#">FAQ</NavDropdown.Item>
-                    </NavDropdown>
-                    <NavDropdown title="ABOUT US" id="basic-nav-dropdown">
-                        <LinkContainer to="/aboutus">
-                            <NavDropdown.Item>COMPANY PROFILE</NavDropdown.Item>
-                        </LinkContainer>
-                        <NavDropdown.Item href="#">MEET THE TEAM</NavDropdown.Item>
-                        <NavDropdown.Item href="#">AWARDS</NavDropdown.Item>
-                    </NavDropdown>
-                    <NavDropdown title="CUSTOMER CARE" id="basic-nav-dropdown">
-                        <NavDropdown.Item href="#">PAYMENT OPTIONS</NavDropdown.Item>
-                        <NavDropdown.Item href="#">DELIVERY OPTIONS</NavDropdown.Item>
-                        <NavDropdown.Item href="#">PROXY BUYING SERVICE</NavDropdown.Item>
-                    </NavDropdown>
+                    <LinkContainer to="/fictionhub-reactjs/contactus">
+                        <Nav.Link className="itemStyle">CONTACT US</Nav.Link>
+                    </LinkContainer>
+                    <LinkContainer to="/fictionhub-reactjs/aboutus">
+                        <Nav.Link className="itemStyle">ABOUT US</Nav.Link>
+                    </LinkContainer>
+                    <Nav.Link className="itemStyle" disabled>CUSTOMER CARE</Nav.Link>
                     </Nav>
                     <Accounts />
                 </Navbar.Collapse>
