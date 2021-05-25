@@ -9,7 +9,7 @@ function SocialIcons() {
             STAY CONNECTED
             <br/>
             <div className="mt-3">
-                <IconContext.Provider value={{size:"20px", style: {margiLeft: "10px", marginRight:"10px"}}}>
+                <IconContext.Provider value={{size:"20px", style: {marginLeft: "10px", marginRight:"10px"}}}>
                     <FaTwitter />
                     <FaFacebook />
                     <FaInstagram />

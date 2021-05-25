@@ -27,7 +27,6 @@ code {
 
 .custom-btn {
   font-family: 'Raleway', sans-serif !important;
-  font-weight: 600 !important;
   border: none !important;
   color: white !important;
   background-color: rgba(0,0,0,0) !important;
@@ -58,13 +57,11 @@ code {
   text-align: center;
   color: white;
   font-family: 'Raleway', sans-serif;
-  font-weight: 500 !important;
   padding-bottom: 35px;
 }
 
 .footerText {
   font-size: 14px;
-  font-weight: 500;
 }
 
 .subscribeBox {
@@ -80,7 +77,6 @@ code {
   border-radius: 0% !important;
   text-align: center !important;
   font-family: 'Raleway', sans-serif;
-  font-weight: 600 !important;
 }
 
 .subscribeButton:hover {
@@ -150,7 +146,6 @@ code {
 .newReleaseText2 {
   font-family:'Raleway',sans-serif; 
   font-size:19px; 
-  font-weight:600; 
   letter-spacing:0.3em; 
   text-align:center
 }
@@ -169,20 +164,13 @@ code {
   background-color: rgb(90,90,90) !important;
 }
 
-/* About Us */
-
-.aboutUsTitle {
-  font-family: 'Spinnaker', sans-serif;
-  font-size: 33px;
-  font-weight: 700;
-  text-align: center;
-}
+/* ABOUT US */
 
 .aboutUsText {
   font-family: 'Raleway', sans-serif;
   font-size: 19px;
   color: black;
-  font-weight: 700;
+  color: rgb(85,85,85);
 }
 
 .mvTitle {
@@ -197,16 +185,73 @@ code {
   color: rgb(85,85,85);
   font-family: 'Raleway', sans-serif;
   font-size: 29px;
-  font-weight: 700;
   text-align: center;
 }
 
-.centerImg {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+/* CONTACT US*/
+
+.contactUsText {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  color: rgb(85,85,85);
+  text-align: center;
 }
-/* MultiPurpose */
+
+.formText {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-size: 22px;
+}
+
+.formBox {
+  background-color: rgb(85,85,85);
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.formInput {
+  background-color: rgba(130,130,130,.5) !important;
+  color: white !important;
+  border: none !important;
+  max-width: 100%;
+  border-radius: 0% !important;
+}
+
+.formSubmit {
+  letter-spacing: 0.5px;
+  background-color: rgb(51,51,51) !important;
+  color:white !important;
+  border-radius: 0px !important;
+  border:none !important;
+}
+
+.formSubmit:hover {
+  background-color: rgba(255,255,255) !important;
+  color: rgb(85,85,85) !important;
+}
+
+.followText {
+  font-family: 'Raleway', sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 5.7px;
+  color: rgb(85,85,85);
+}
+
+
+.socialMediaIcons {
+  color: black;
+
+}
+
+.map-container {
+  height: 500px;
+}
+
+
+/* MULTIPURPOSE */
 
 .parentHeight {
   height: 100%;
@@ -214,6 +259,14 @@ code {
 
 .bgBlue {
   background-color: rgba(185, 215, 211, 0.4);
+  margin-bottom: 10px;
+}
+
+.pageTitle {
+  font-family: 'Spinnaker', sans-serif;
+  font-size: 33px;
+  font-weight: 700;
+  text-align: center;
 }
 
 
