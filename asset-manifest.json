@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/fictionhub-reactjs/static/css/main.35c7eac8.chunk.css",
-    "main.js": "/fictionhub-reactjs/static/js/main.bc77b934.chunk.js",
-    "main.js.map": "/fictionhub-reactjs/static/js/main.bc77b934.chunk.js.map",
-    "runtime-main.js": "/fictionhub-reactjs/static/js/runtime-main.de04d359.js",
-    "runtime-main.js.map": "/fictionhub-reactjs/static/js/runtime-main.de04d359.js.map",
-    "static/css/2.51e87689.chunk.css": "/fictionhub-reactjs/static/css/2.51e87689.chunk.css",
-    "static/js/2.ea693986.chunk.js": "/fictionhub-reactjs/static/js/2.ea693986.chunk.js",
-    "static/js/2.ea693986.chunk.js.map": "/fictionhub-reactjs/static/js/2.ea693986.chunk.js.map",
-    "static/js/3.7597f83b.chunk.js": "/fictionhub-reactjs/static/js/3.7597f83b.chunk.js",
-    "static/js/3.7597f83b.chunk.js.map": "/fictionhub-reactjs/static/js/3.7597f83b.chunk.js.map",
+    "main.js": "/fictionhub-reactjs/static/js/main.b55ba3f6.chunk.js",
+    "main.js.map": "/fictionhub-reactjs/static/js/main.b55ba3f6.chunk.js.map",
+    "runtime-main.js": "/fictionhub-reactjs/static/js/runtime-main.5b78aebc.js",
+    "runtime-main.js.map": "/fictionhub-reactjs/static/js/runtime-main.5b78aebc.js.map",
+    "static/css/2.7ba32266.chunk.css": "/fictionhub-reactjs/static/css/2.7ba32266.chunk.css",
+    "static/js/2.532ef687.chunk.js": "/fictionhub-reactjs/static/js/2.532ef687.chunk.js",
+    "static/js/2.532ef687.chunk.js.map": "/fictionhub-reactjs/static/js/2.532ef687.chunk.js.map",
+    "static/js/3.03a837fd.chunk.js": "/fictionhub-reactjs/static/js/3.03a837fd.chunk.js",
+    "static/js/3.03a837fd.chunk.js.map": "/fictionhub-reactjs/static/js/3.03a837fd.chunk.js.map",
     "index.html": "/fictionhub-reactjs/index.html",
-    "static/css/2.51e87689.chunk.css.map": "/fictionhub-reactjs/static/css/2.51e87689.chunk.css.map",
+    "static/css/2.7ba32266.chunk.css.map": "/fictionhub-reactjs/static/css/2.7ba32266.chunk.css.map",
     "static/css/main.35c7eac8.chunk.css.map": "/fictionhub-reactjs/static/css/main.35c7eac8.chunk.css.map",
-    "static/js/2.ea693986.chunk.js.LICENSE.txt": "/fictionhub-reactjs/static/js/2.ea693986.chunk.js.LICENSE.txt"
+    "static/js/2.532ef687.chunk.js.LICENSE.txt": "/fictionhub-reactjs/static/js/2.532ef687.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.de04d359.js",
-    "static/css/2.51e87689.chunk.css",
-    "static/js/2.ea693986.chunk.js",
+    "static/js/runtime-main.5b78aebc.js",
+    "static/css/2.7ba32266.chunk.css",
+    "static/js/2.532ef687.chunk.js",
     "static/css/main.35c7eac8.chunk.css",
-    "static/js/main.bc77b934.chunk.js"
+    "static/js/main.b55ba3f6.chunk.js"
   ]
 }
