@@ -7,7 +7,7 @@ function Mission(props) {
         <div>
            <hr className="w-100"/>
             <Row className="mt-3">
-                <Col className="mvTitle">
+                <Col className="mv-title">
                     MISSION
                 </Col>
             </Row>
@@ -15,7 +15,7 @@ function Mission(props) {
                 <Col sm={12} md={6} lg={4}>
                     <Image src={props.logo} className="mx-auto d-block"/>
                 </Col>
-                <Col sm={12} md={6} lg={8} className="mvText">
+                <Col sm={12} md={6} lg={8} className="mv-text">
                     To provide access, entertain, inform and inspire people around the globe through the power of fiction.
                 </Col>
             </Row>

@@ -8,7 +8,7 @@ import SocialMediaLinks from "./contactUsComponents/SocialMediaLinks"
 function ContactUs() {
 
     return (
-        <Container className="bgBlue mx-auto px-5 py-5">
+        <Container className="bg-blue mx-auto px-5 py-5">
             <ContactUsDescription />
             <ContactForm />
             <SocialMediaLinks />

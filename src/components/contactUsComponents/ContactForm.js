@@ -6,7 +6,7 @@ function ContactForm() {
         <div>
             <hr className="w-100"/>
             <Row className="mt-3">
-                <Col sm={12} md={6} className="formText">
+                <Col sm={12} md={6} className="form-text">
                     Have any questions or concerns? 
                     <br />
                     We’re always ready to help!
@@ -20,20 +20,20 @@ function ContactForm() {
                     fictionhub@gmail.com
                 </Col>
                 <Col sm={12} md={6}>
-                    <Form className="formBox">
+                    <Form className="form-box">
                         <Form.Group controlId="formEmail">
-                            <Form.Control className="formInput" type="email" placeholder="Enter email" />
+                            <Form.Control className="form-input" type="email" placeholder="Enter email" />
                         </Form.Group>
                         <Form.Group controlId="formName">
-                            <Form.Control className="formInput" type="text" placeholder="Name" />
+                            <Form.Control className="form-input" type="text" placeholder="Name" />
                         </Form.Group>
                         <Form.Group controlId="formSubject">
-                            <Form.Control className="formInput" type="text" placeholder="Subject" />
+                            <Form.Control className="form-input" type="text" placeholder="Subject" />
                         </Form.Group>
                         <Form.Group controlId="formMessage">
-                            <Form.Control className="formInput" as="textarea" rows={4} />
+                            <Form.Control className="form-input" as="textarea" rows={4} />
                         </Form.Group>
-                        <Button variant="primary" type="submit" className="formSubmit px-4">
+                        <Button variant="primary" type="submit" className="form-submit px-4">
                             Submit
                         </Button>
                     </Form>

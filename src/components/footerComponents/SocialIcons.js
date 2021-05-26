@@ -5,7 +5,7 @@ import { IconContext } from "react-icons/lib"
 
 function SocialIcons() {
     return(
-        <Col lg={3} className="footerItems">
+        <Col lg={3} className="footer-items">
             STAY CONNECTED
             <br/>
             <div className="mt-3">

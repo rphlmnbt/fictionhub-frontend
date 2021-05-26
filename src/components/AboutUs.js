@@ -10,7 +10,7 @@ function AboutUs() {
     const logo = Images.images[0].url
 
     return (
-        <Container className="bgBlue mx-auto px-5 py-5">
+        <Container className="bg-blue mx-auto px-5 py-5">
             <AboutUsDescription founderImg={founderImg} />
             <Mission logo={logo}/>
             <Vision logo={logo}/>

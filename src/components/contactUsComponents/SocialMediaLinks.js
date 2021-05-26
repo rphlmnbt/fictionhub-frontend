@@ -8,7 +8,7 @@ function SocialMediaLinks() {
         <div>
             <hr className="w-100"/>
             <Row className="mt-3">
-                <Col md={8} className="followText mx-auto">
+                <Col md={8} className="follow-text mx-auto">
                     FOLLOW US AT OUR SOCIAL MEDIA PAGES!
                     <br /><br />
                     <span style={{fontWeight:"400"}}>

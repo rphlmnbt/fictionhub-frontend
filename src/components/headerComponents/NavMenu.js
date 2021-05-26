@@ -30,7 +30,7 @@ function NavMenu() {
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="mr-auto">
                     <LinkContainer to="/fictionhub-reactjs/">
-                        <Nav.Link className="itemStyle">HOME</Nav.Link>
+                        <Nav.Link className="item-style">HOME</Nav.Link>
                     </LinkContainer>
                     <NavDropdown title="SHOP" id="basic-nav-dropdown" disabled>
                         <NavDropdown.Item href="#">BEST SELLERS</NavDropdown.Item>
@@ -38,17 +38,17 @@ function NavMenu() {
                         <NavDropdown.Item href="#">STORE</NavDropdown.Item>
                     </NavDropdown>
                     <LinkContainer to="/fictionhub-reactjs/contactus">
-                        <Nav.Link className="itemStyle">CONTACT US</Nav.Link>
+                        <Nav.Link className="item-style">CONTACT US</Nav.Link>
                     </LinkContainer>
                     <LinkContainer to="/fictionhub-reactjs/aboutus">
-                        <Nav.Link className="itemStyle">ABOUT US</Nav.Link>
+                        <Nav.Link className="item-style">ABOUT US</Nav.Link>
                     </LinkContainer>
-                    <Nav.Link className="itemStyle" disabled>CUSTOMER CARE</Nav.Link>
+                    <Nav.Link className="item-style" disabled>CUSTOMER CARE</Nav.Link>
                     </Nav>
                     <Accounts />
                 </Navbar.Collapse>
             </Navbar>
-            <div className="whiteBar"></div>
+            <div className="white-bar"></div>
         </div>
         
 

@@ -20,11 +20,11 @@ function FeaturedBanner() {
 
     return (
         <Jumbotron style={featImg} fluid>
-            <Container className="parentHeight">
-                <Row className="parentHeight">
-                    <Col md={6} className="featBox d-none d-sm-block"> 
-                        <p className="featText">FEATURED ITEMS</p>
-                        <Button className="featButton mt-3 px-5">SHOP NOW</Button>
+            <Container className="h-100">
+                <Row className="h-100">
+                    <Col md={6} className="feat-box d-none d-sm-block"> 
+                        <p className="feat-text">FEATURED ITEMS</p>
+                        <Button className="feat-btn mt-3 px-5">SHOP NOW</Button>
                     </Col>
                 </Row>
             </Container>

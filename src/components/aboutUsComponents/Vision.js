@@ -7,12 +7,12 @@ function Vision(props) {
         <div>
             <hr className="w-100"/>
             <Row className="mt-3">
-                <Col className="mvTitle">
+                <Col className="mv-title">
                     VISION
                 </Col>
             </Row>
             <Row className="mt-3">
-                <Col sm={12} md={6} lg={8} className="mvText">
+                <Col sm={12} md={6} lg={8} className="mv-text">
                 To become the leading supplier of fiction merchandise of all kinds around the world all while providing superior quality service.
                 </Col>
                 <Col sm={12} md={6} lg={4}>

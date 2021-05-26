@@ -27,6 +27,18 @@ const images =
         {
           "name": "founder",
           "url" : "https://lh3.googleusercontent.com/2cL7avtg-H1P8Hv02b-qkOBjhWICI5v6yMkdNzALLOiwd5h-SI_0tzYGrFx1hlWJtjAivij1pWRDWwxET9z0fRS45vj0edI1S8izlziTUP7WfH_Qeo-58qic6Ak6gTdsoTTzYoELFjh7-llJfZFg5GSnUbp3mGwObw916ElT1J1LwsgcE6-gCTT03pd_VR5gNLZeT1IWXb5za-fEa8AJoZXeS10c-aiRBBhLWCBnMHKe0k33Q2aZUTA4Q9XFakQOqIhKUMIrNCmq8opug2cXTtQezQxxDCge5-5ZsS65TvVP1OAzjWzEba-O56Pv12e1xv4cxlJGekveZNLmZFFgV-GUj3tub0rZP6NLIhp2KQnDBpGtbXVKw7YpO0h0iUlGcKcdm2r2RmoxpwqEPiQzHUzoHOtcsQ36tCZ84-tHuiRsDcRwhWC2PB3XTDmcsfkgPiF3ayjU0sG8VEKNmDKzThuDE87km_pCuSxn__OSDlRCnNqzTVlvmjO2p50i4wZN3m__WOfrrOQDObFdit-MeLBFozU-1oQSaQDjezscpmNx0v6ZuwdQfQoDAEXW3CJ598qGzPTKJH1eG_ljDrod5dvSOzO9CdChA4hcrXmd3f4QavSUti6w7CzuWqn1HwVnlw7XUEOXFuHxQd8qNIMbzGyXEvBT_8Ym4SU5BvumYTrv-naRJoKeeBP3cICIA2luM3wvmwDly8EJVqNTdUwJBCw=w303-h302-no?authuser=1"
+        },
+        {
+          "name": "cover1",
+          "url" : "https://lh3.googleusercontent.com/ycEDshL6c9r_GCMGibhJ9m6P-i9huu34CUgmynUdoUSTOdS7vRigu_ZBzv7nO1uMQ9jWE7xhYvpn79MKCLGrSPE9YG4tHnWQHX-g1MygDaCZwW6F_baoo3N5Cme9KW_3gkkVAKa8dowqCRAT0Y7NnycM1jrFNLbyHCAhduWtDzyE-XNYqiwcEHhUsJSc1J8et5ZfhuYpq7oU5YQjR4M9m_I_XuOxeFIxRbU7y4SOzUaukp8fm-AlkIn1vzpCgsopC9tuQ21ROYeaylkQSBmZYwzqQoW-3l8awvIrnrANYSStdLAtY1u5KDaHd6mGY63tI655Jn2G-QbWw1-rjZ7RTI0eROaNDBG04gHfXrWG7W_Ncr_WLwdKlhsrI0u0nuA_p_AwiwX0lurGwi_cxDtjKLuTuYf_3ZLvGvdXkB-KjKJreKrQHGJMvPkwLCFGyoOTHoj1hO7mnIT3sgWvuir0M1ROIJmnKxdjKr2bYsNz5aKRkRXXeYneKc8h4kY4_Tplp3paAJiX4ENIUln1D8OL3o_M_93lVzP-z9FYrOVOaEBY6oGmZZUszFwqWjA_Eoq-sV8yAMcaOH2RRvO2PFeLSsbLVxW8dOnw6tmxtoib6567QPjh-Y3NCd-ZMjC2-nFVnhouDR0oag0K5ZPU-tWd38KEux1raQegdPDWACMjvgSqUrLtWFCaV_CrdH2J84XdLrqxG9lqFAK_6LYCoorQXmw=w543-h361-no?authuser=1"
+        },
+        {
+          "name": "cover2",
+          "url" : "https://lh3.googleusercontent.com/jWv5Q19oG6Xqn7VkW9Q4mNJt2hTkl-gYhyDkXBXJDIBmJasR2Dd4oTBK5JcmVRhr3lm04GJJsVJZwLwJY4cAZGWmpYLLA1amL7YsakENnt81aHIlfOdq8tdYi4yPogV-K-WttEJYmyUHWgE9d7ESmyRqlSJmjmzjXH7MTGPPFRkRQnRGGMTWZtxCrOayFjqcsYhPOcC6D7G-FuzF8lZh5y7_buv69NvM7bd_EUb0zBl4OBbxPVSTFlCb98z-fxZwrE4S5BkahKDLB9dECPQfiQE2ze1aiN4r4ffcBX_143W52_clhX3waikEjHdBa0RkIhs0DLdCYxftbeoNsn9ExavAHmY9kSCVEgzW0DqQsKnQAP3pDGK3-qg2q5O3wwwTYrrhLRe9PLUDg5DB98ByIapOZfReV86Ze6rxR8w8k9EfzCr90XAPg3NvzzpmAfQNVQqxDU-8hhwCduKPXlmH8OzvZxkh2NMZmWn1FsH94BGQoy4JjRNKcd9dqj-i04dlHbAfeXRSHVNJW_W71AR-ILeYfgWsxN10fvR0wxqLnMxhlmJ4ZXYtMa3OPqJf8E8NrvWVer2VxcYqxt8ERW8x9rYX7niny0wv4V6SLbeYSUFT0wKs61O2DzQ0M5DQMe_i4t0wXtB6oT9iTC9u6CUnjqVcvspg6xsG5hmIxp24PmlKfXCoBs8ohKoyCA1p6GIr9FqxtN8WqTwiIPqmOQ4rV2Q=w552-h368-no?authuser=1"
+        },
+        {
+          "name": "cover3",
+          "url" : "https://lh3.googleusercontent.com/0FpCb_AvIw42kgIvp6jS2xwsXOBmUuvhT6dwIBxcs1Sr0_eXHLGcopiRioDh8T9uAeVrnNHHmgoXVKqispSa4QRyfnFJmugj9A89eFdFfAyOA2i5IGtwUl8pR9lcskgW7PkTQ8a33irNAIR6MikSY1ANgFBPI0pfdGhFvyXuPgTYaCHiWbtu8PsohyVhATgi2slzA9JMWOmBBn0ztPp-siwT8pmg1II9l9IZQGQblVW8ohtCnhGcruFr95vxlAFY-jzCBFsibjz4AUDRE3EamL0PUwEV0xSgI2y8ZZ1a6SzrCCViHyTtUMk3chd5TgLFMw0Z092mpoULHlQb2m1-KE5BtYtNg8QOA-kcEZt-RDFhtLEjerh-F598EWV5iH3CS3jmWczvNzPbe-mLwYOQvAsrAlaR8ekkM9Hve-O3EiQjsW4AjTnfs5v68N6bXON1R2xh3UgKFUuIWxaZz2GKVV9FwbuIWbAC_-FzxqD3M06mdz45EdjWt73SOH9WPCbSqH5yunJS8ZzC16YfkxctDpN2C9w3J5EwAh744GWIQaJuBjsufCBf5Zi1-dTipbeR4vF4-GN3PzLRGkVSTrSYxhjLrKg52bk0xi37UysV4QLKHe6EhVck8Z6KmmbxQ_viiFuHNPYEmcDqFXejStBB6VQjUm2_Hs9G3JZ30ayd3auXOKbmVP1N1glsTFL0_Al38MMh7bptCq0SEicMmGdfscQ=w495-h330-no?authuser=1"
         }
     ]
 }

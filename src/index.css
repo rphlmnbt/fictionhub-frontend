@@ -32,11 +32,11 @@ code {
   background-color: rgba(0,0,0,0) !important;
 }
 
-.itemStyle {
+.item-style {
   color: rgba(255,255,255,.8) !important
 }
 
-.whiteBar {
+.white-bar {
   background-color: white;
   height: 10px;
 }
@@ -53,24 +53,24 @@ code {
   padding-right: 20% !important;
   max-width: 100% !important;
 }
-.footerItems {
+.footer-items {
   text-align: center;
   color: white;
   font-family: 'Raleway', sans-serif;
   padding-bottom: 35px;
 }
 
-.footerText {
+.footer-text {
   font-size: 14px;
 }
 
-.subscribeBox {
+.subscribe-box {
   background-color: rgb(85,85,85);
   max-width: 100%;
   padding: 15px !important;
 }
 
-.subscribeButton {
+.subscribe-btn {
   background-color: rgb(200,200,200) !important;
   color:black !important;
   border:none !important;
@@ -79,11 +79,11 @@ code {
   font-family: 'Raleway', sans-serif;
 }
 
-.subscribeButton:hover {
+.subscribe-btn:hover {
   background-color: rgb(250,250,250) !important;
 }
 
-.emailBox {
+.email-box {
   background-color: rgb(130,130,130) !important;
   color: white !important;
   border: none !important;
@@ -96,14 +96,14 @@ code {
 }
 
 /* HOME */
-.featBox {
+.feat-box {
   background-color: rgba(81,81,81,.5);
   padding: 3vw 0;
   margin: auto;
   text-align: center;
 }
 
-.featText {
+.feat-text {
   font-family: 'Spinnaker', sans-serif;
   color: white;
   font-weight: 700;
@@ -111,7 +111,7 @@ code {
   font-size: 46px;
 }
 
-.featButton {
+.feat-btn {
   letter-spacing: 0.5px;
   background-color: rgb(85,85,85) !important;
   color:white !important;
@@ -121,11 +121,11 @@ code {
   font-size: 18px !important;
 }
 
-.featButton:hover {
+.feat-btn:hover {
   background-color: rgb(250,250,250) !important;
   color: rgb(85,85,85) !important;
 }
-.newReleaseDiv {
+.new-release-div {
   background-color: rgb(102,102,102);
   color: white;
   height: 3rem;
@@ -135,7 +135,7 @@ code {
   font-weight: 500;
 }
 
-.newReleaseText {
+.new-release-text {
   font-family: 'Spinnaker', sans-serif;
   font-size: 36px;
   font-weight: 700;
@@ -143,14 +143,14 @@ code {
   color: rgb(85,85,85);
 }
 
-.newReleaseText2 {
+.new-release-subtext {
   font-family:'Raleway',sans-serif; 
   font-size:19px; 
   letter-spacing:0.3em; 
   text-align:center
 }
 
-.cardBtn {
+.card-btn {
   background-color: rgb(51,51,51) !important;
   border-radius: 0px !important;
   border: none !important;
@@ -160,20 +160,20 @@ code {
   font-weight: 600;
 }
 
-.cardBtn:hover {
+.card-btn:hover {
   background-color: rgb(90,90,90) !important;
 }
 
 /* ABOUT US */
 
-.aboutUsText {
+.aboutus-text {
   font-family: 'Raleway', sans-serif;
   font-size: 19px;
   color: black;
   color: rgb(85,85,85);
 }
 
-.mvTitle {
+.mv-title {
   font-family: 'Spinnaker', sans-serif;
   font-size: 47px;
   font-weight: 700;
@@ -181,7 +181,7 @@ code {
   text-align: center;
 }
 
-.mvText {
+.mv-text {
   color: rgb(85,85,85);
   font-family: 'Raleway', sans-serif;
   font-size: 29px;
@@ -190,27 +190,27 @@ code {
 
 /* CONTACT US*/
 
-.contactUsText {
+.contactus-text {
   font-family: 'Raleway', sans-serif;
   font-size: 22px;
   color: rgb(85,85,85);
   text-align: center;
 }
 
-.formText {
+.form-text {
   font-family: 'Raleway', sans-serif;
   text-align: center;
   font-size: 22px;
 }
 
-.formBox {
+.form-box {
   background-color: rgb(85,85,85);
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
   padding: 10px;
 }
 
-.formInput {
+.form-input {
   background-color: rgba(130,130,130,.5) !important;
   color: white !important;
   border: none !important;
@@ -218,7 +218,7 @@ code {
   border-radius: 0% !important;
 }
 
-.formSubmit {
+.form-submit {
   letter-spacing: 0.5px;
   background-color: rgb(51,51,51) !important;
   color:white !important;
@@ -226,24 +226,18 @@ code {
   border:none !important;
 }
 
-.formSubmit:hover {
+.form-submit:hover {
   background-color: rgba(255,255,255) !important;
   color: rgb(85,85,85) !important;
 }
 
-.followText {
+.follow-text {
   font-family: 'Raleway', sans-serif;
   font-size: 22px;
   font-weight: 700;
   text-align: center;
   letter-spacing: 5.7px;
   color: rgb(85,85,85);
-}
-
-
-.socialMediaIcons {
-  color: black;
-
 }
 
 .map-container {
@@ -253,16 +247,12 @@ code {
 
 /* MULTIPURPOSE */
 
-.parentHeight {
-  height: 100%;
-}
-
-.bgBlue {
+.bg-blue {
   background-color: rgba(185, 215, 211, 0.4);
   margin-bottom: 10px;
 }
 
-.pageTitle {
+.page-title {
   font-family: 'Spinnaker', sans-serif;
   font-size: 33px;
   font-weight: 700;

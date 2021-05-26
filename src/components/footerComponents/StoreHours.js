@@ -3,11 +3,11 @@ import Col from "react-bootstrap/Col"
 
 function StoreHours() {
     return(
-        <Col lg={3} className="footerItems">
+        <Col lg={3} className="footer-items">
             STAY CONNECTED
             <br/>
             <div className="mt-3">
-                <div className="footerText">
+                <div className="footer-text">
                     San Fdo Branch
                     <br />
                     Open Mon - Fri

@@ -23,7 +23,7 @@ function Cards(props) {
                         () => {
                             setText(props.title)
                             console.log("leave")
-                        }} className="cardBtn py-3">{text}</Button>
+                        }} className="card-btn py-3">{text}</Button>
                 </Card.Body>
             </Card>
         </Col>

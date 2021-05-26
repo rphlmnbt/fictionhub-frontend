@@ -6,12 +6,12 @@ function AboutUsDescription(props) {
     return (
         <div>
            <Row>
-                <Col className="pageTitle">
+                <Col className="page-title">
                     ABOUT US
                 </Col>
             </Row>
             <Row className="mt-3">
-                <Col sm={12} md={6} lg={8} className="aboutUsText">
+                <Col sm={12} md={6} lg={8} className="aboutus-text">
                     ​FictionHub is a website that aims to give people access to the greatest and latest pieces of fiction from all over the world. 
                     <br />
                     It offers a variety of products including Japanese Manga and Western Novels. Additionally, it also offers figurines, posters, and other merchandise of characters from many different kinds of fiction.

@@ -15,10 +15,10 @@ function MapLocation() {
     useEffect(() => {
         if (map.current) return;
             map.current = new mapboxgl.Map({
-            container: mapContainer.current,
-            style: 'mapbox://styles/mapbox/streets-v11',
-            center: [lng, lat],
-            zoom: zoom
+                container: mapContainer.current,
+                style: 'mapbox://styles/mapbox/streets-v11',
+                center: [lng, lat],
+                zoom: zoom
             });
     });
 
@@ -26,13 +26,13 @@ function MapLocation() {
         <div>
             <hr className="w-100"/>
             <Row className="mt-3">
-                <Col md={4} className="followText mx-auto">
+                <Col md={4} className="follow-text mx-auto">
                     FIND US HERE!
                     <br />
                 </Col>
             </Row>
             <Row className="mt-3">
-                <Col sm={12} md={6} lg={4} className="formText" style={{fontSize:"18px"}}>
+                <Col sm={12} md={6} lg={4} className="form-text" style={{fontSize:"18px"}}>
                 Angeles City, Pampanga
                 <br />
                 500 Street in Angeles

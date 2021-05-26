@@ -6,17 +6,17 @@ import Form from "react-bootstrap/Form"
 
 function BeOurFriend() {
     return(
-        <Col lg={3} className="footerItems">
+        <Col lg={3} className="footer-items">
             NEED ASSISTANCE?
             <br />
             <div className="mt-3">
-                <Container className="subscribeBox">
+                <Container className="subscribe-box">
                     <Form>
                         <Form.Group controlId="formBasicEmail">
-                            <Form.Control className="emailBox" type="email" placeholder="Enter email" />
+                            <Form.Control className="email-box" type="email" placeholder="Enter email" />
                         </Form.Group>
                     </Form>
-                    <Button className="subscribeButton" block>Subscribe Now</Button>
+                    <Button className="subscribe-btn" block>Subscribe Now</Button>
                 </Container>
             </div>
         </Col>

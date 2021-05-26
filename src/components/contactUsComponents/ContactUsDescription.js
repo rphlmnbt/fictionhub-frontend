@@ -8,7 +8,7 @@ function ContactUsDescription() {
     return (
         <div>
             <Row>
-                <Col className="pageTitle">
+                <Col className="page-title">
                     CONTACT US
                 </Col>
             </Row>
@@ -16,7 +16,7 @@ function ContactUsDescription() {
                 <Col sm={12} md={6} lg={4}>
                     <Image src={logo}  className="mx-auto d-block"/>
                 </Col>
-                <Col sm={12} md={6} lg={8} className="contactUsText">
+                <Col sm={12} md={6} lg={8} className="contactus-text">
                 Here at FictionHub, we aim to provide the best service poissble! Written below are the various way you could contact us so that we could address all of your concerns! Our team is composed of trained Customer Service Representatives that are sure to aid you in all of your problems 24/7.
                 </Col>
             </Row>
