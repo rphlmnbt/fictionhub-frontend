@@ -1,9 +1,10 @@
 import React from "react"
 import { Container } from "react-bootstrap"
-import ContactForm from "./contactUsComponents/ContactForm"
-import ContactUsDescription from "./contactUsComponents/ContactUsDescription"
-import MapLocation from "./contactUsComponents/MapLocation"
-import SocialMediaLinks from "./contactUsComponents/SocialMediaLinks"
+import ContactUsDescription from "../components/contactUsComponents/ContactUsDescription"
+import ContactForm from "../components/contactUsComponents/ContactForm"
+import SocialMediaLinks from "../components/contactUsComponents/SocialMediaLinks"
+import MapLocation from "../components/contactUsComponents/MapLocation"
+
 
 function ContactUs() {
 

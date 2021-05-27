@@ -1,6 +1,7 @@
 import React from "react"
-import FeaturedBanner from "./homeComponents/FeaturedBanner"
-import NewReleases from "./homeComponents/NewReleases"
+import FeaturedBanner from "../components/homeComponents/FeaturedBanner"
+import NewReleases from "../components/homeComponents/NewReleases"
+
 
 function Home() {
     return (
