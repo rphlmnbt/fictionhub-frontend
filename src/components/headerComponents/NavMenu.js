@@ -23,7 +23,7 @@ function NavMenu() {
                 <LinkContainer to="/fictionhub-reactjs/">
                     <Navbar.Brand style={fhNameStyle}>
                         <Logo height="60px"/>
-                        asdadsa
+                        FICTIONHUB
                     </Navbar.Brand>
                 </LinkContainer>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
@@ -32,7 +32,7 @@ function NavMenu() {
                     <LinkContainer to="/fictionhub-reactjs/">
                         <Nav.Link className="item-style">HOME</Nav.Link>
                     </LinkContainer>
-                    <NavDropdown title="SHOP" id="basic-nav-dropdown" disabled>
+                    <NavDropdown title="SHOP" id="basic-nav-dropdown">
                         <LinkContainer to="/fictionhub-reactjs/bestsellers">
                             <NavDropdown.Item href="#">BEST SELLERS</NavDropdown.Item>
                         </LinkContainer>

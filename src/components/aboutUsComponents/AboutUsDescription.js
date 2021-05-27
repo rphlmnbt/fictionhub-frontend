@@ -20,8 +20,8 @@ function AboutUsDescription(props) {
                     <br />
                     With this, FictionHub aims to continue their goal of providing great service to all of its users.
                 </Col>
-                <Col sm={12} md={6} lg={4}>
-                    <Image src={props.founderImg}  className="mx-auto d-block"/>
+                <Col sm={12} md={6} lg={4} className="text-center">
+                    <Image src={props.founderImg} />
                 </Col>
             </Row>
         </div>

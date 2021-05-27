@@ -12,8 +12,8 @@ function Mission(props) {
                 </Col>
             </Row>
             <Row className="mt-3">
-                <Col sm={12} md={6} lg={4}>
-                    <Image src={props.logo} className="mx-auto d-block"/>
+                <Col sm={12} md={6} lg={4} className="text-center">
+                    <Image src={props.logo} />
                 </Col>
                 <Col sm={12} md={6} lg={8} className="mv-text">
                     To provide access, entertain, inform and inspire people around the globe through the power of fiction.
