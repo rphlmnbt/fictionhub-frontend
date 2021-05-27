@@ -6,7 +6,7 @@ const images =
         },
         {
           "name" : "banner",
-          "url" : "https://lh3.googleusercontent.com/fpW-5QOXWFY6djlMIxwl5OUNcY4lcBZFzbAmatHdk-ncfz5qF-byc85Y2RCDB5sRTf-TUxpS8oABb5AhydVZqnLX2DV2ItfFqPaZ2Loi3UuwpKtlK4guXMLdhw_3HW0Yvv9pMFdYfnH4AW5ujteRrYtsH6bjj9UMx9mkZY10e6NbvB1lZqkaETPWLeqTe7EwSP6K6qxOPASvHQQHEJ4zmECBGAHnypGLBwwe-eKFEiHvEA654UAPlie1ZHIw2o9bn53QxBRmi_Ua_tS8Dm9ehHwNiP2eKEuPD4gzcn_lMPUYmOR6HYeIY7apDFLNXDhsCWUTcpnWHYOkClF1ajFghTh8vpqpkMAGIY14ZZRAuqO6T0IHkAJMADJMdFB1a8tbdvCAKRRBb1kw9T68JL6HqAXIKw7My1dyE9UQ9IlRV4D0j8-GG6PHG6A2JrhlwWEPGo9auQqk2HjpkHkja3LriYBU5cYog4avyNn6f49_iHPALy1S-ZLJ-WdXGUW1covlgWHAmkN1tLEW8mUlL509HNGol7Vc6EkSK7N48ithVTTodd05Hxsm44QWkoeZJ4fRJ1BmiduYRn2qMpKd5V3eLxEcsLVX7mXVoDzvENb7AZ2nzH4wF47bGfwDlxdMdHfoxZq__BJmX6gABziIA19oT2-kpouU2PbcnPqCNbAIDzhkMDRmQ5KCuBUtaugPb49_wm91r63DbhBmKkiZQAWmkw8=w802-h294-no?authuser=1"
+          "url" : "https://lh3.googleusercontent.com/mC3GgH6-TlReYbIhNFm2BWr_N-5WU5p1_k9vBbRBSlN749shqVCryNo740FUYEciVk2bgENfw6tR2O29k4MADu3okQukgQGsFWW1SNpVHljSIPdCQdB_U3oaf3dJ6UnF_LV6Yx_w5iqmFSgwfuE9QpzUDuX_JrGXnR5gRCVPfGcDZQn-a14Lv5qy_dYOQL1k51noRT4didhTYg5-3JUOzwr9czCgIFoH0c3aiaaIPv2VioeuPlg1RAZJWUqrAEaRZp5orZ6NRU1aHIIHYqQD6QGi70zPteX5ftCmKekcS74pVZR7svw8B1o66myx4bsz6347m6ocPGs8KZV-LIn7XglthMFmNTXWkwf6PPNoqI9m6PvjZ-Q_WpyYDxiNUvtv1GwexL-9PRJXdz7V875OxRGN1e3vPX5QYhIbqVBJjzqYxEOf5B11SBmXeShQ6w8KLD6digAVIwPrtoh2LllXRwQXBSTuCKUZ_Vo_fGeegMVz4iAPEcBWfy_TiMPKL9UXxhHjJUdKElXyB0weRTTRQ8IJM_TLoH1jf9FkHLQe35bz36AyfWVb6WXIenImys6w5aDaKaSh2fvCUCredKqsZ1iW2cZuYcqzGD3CQDvUoCHJxlcT0fYfO6E-_5yDUWX2p7PuE0O1sXnS7udnnMjPmXa5_n2plm9Jbnk4DqqogvygiybOOzMFNYlfa5hGFT432TM6ytSMgCN0jRHawUxKVQ8=w1364-h500-no?authuser=1"
         },
         {
           "name" : "bgNewReleases",
@@ -30,7 +30,7 @@ const images =
         },
         {
           "name": "cover1",
-          "url" : "https://lh3.googleusercontent.com/ycEDshL6c9r_GCMGibhJ9m6P-i9huu34CUgmynUdoUSTOdS7vRigu_ZBzv7nO1uMQ9jWE7xhYvpn79MKCLGrSPE9YG4tHnWQHX-g1MygDaCZwW6F_baoo3N5Cme9KW_3gkkVAKa8dowqCRAT0Y7NnycM1jrFNLbyHCAhduWtDzyE-XNYqiwcEHhUsJSc1J8et5ZfhuYpq7oU5YQjR4M9m_I_XuOxeFIxRbU7y4SOzUaukp8fm-AlkIn1vzpCgsopC9tuQ21ROYeaylkQSBmZYwzqQoW-3l8awvIrnrANYSStdLAtY1u5KDaHd6mGY63tI655Jn2G-QbWw1-rjZ7RTI0eROaNDBG04gHfXrWG7W_Ncr_WLwdKlhsrI0u0nuA_p_AwiwX0lurGwi_cxDtjKLuTuYf_3ZLvGvdXkB-KjKJreKrQHGJMvPkwLCFGyoOTHoj1hO7mnIT3sgWvuir0M1ROIJmnKxdjKr2bYsNz5aKRkRXXeYneKc8h4kY4_Tplp3paAJiX4ENIUln1D8OL3o_M_93lVzP-z9FYrOVOaEBY6oGmZZUszFwqWjA_Eoq-sV8yAMcaOH2RRvO2PFeLSsbLVxW8dOnw6tmxtoib6567QPjh-Y3NCd-ZMjC2-nFVnhouDR0oag0K5ZPU-tWd38KEux1raQegdPDWACMjvgSqUrLtWFCaV_CrdH2J84XdLrqxG9lqFAK_6LYCoorQXmw=w543-h361-no?authuser=1"
+          "url" : "https://lh3.googleusercontent.com/0nDByub4per98c_vdRtRkx3gMX6Pbal0CLqARn36TOSvEPWTg8NpAsc2j856dK-xrEJdzSS_L-Vja0r1--tlCw4LpleKmx-kT7WpAddXK7Gl4a7MhLmHGN9juG_4oaOWAnB3gDbbkhSStdzLhOWSwzk7djLyHdKk9zok1siWrKGIuJmUNxgN8KqYHbhU92-hKQjbRIK2_Uo7xL9HY7-nLnFpQCOCw5AwNjkmc4Iyas-zKmtwgUN1VzbQk2kwOIJ36ZNPFFHLTPhW1n_xe30QMrdwOIBxbJjtkC7wi0djcu9jayPYvyyEsWQwnQhHVkChEpbImPhCTlLtyuftSwzMp8hUAf42rVcv43g_zc_M4Rcp2QcyjJwzNQzofnNNBZ49Yi4zTCbclx790RTxtt3T9CFTUm918BDBxVlohfULMIe5b_ybgZ-969BKohHXBVNVMgYG-CCiAGAxbJ6Fs3dnDC_bFy2QHhZbGqBrwDa1_m2SZvc-nR9PQH49q8kBZhmKEmaiwyc71vlyk0IA2QOCNq58diyE3goGedgsEGDJJvLQ5cvgR0nXY42FVgc4I1rMCtbOVbgi8hZ7TR50JQNGfdrLx2aB9M-1jlLkMpQrMBe6bOkJ_fVJLC9bzS0COosQ9au4iP_JbK8fKU8akXfqLuNi8myeybCqi4y7SZeNG1rlqGnY4R30wi1c8XGpi43lPtXP96FpDcZmL_BaGCaumyI=w718-h263-no?authuser=1"
         },
         {
           "name": "cover2",

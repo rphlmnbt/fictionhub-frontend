@@ -244,6 +244,30 @@ code {
   height: 500px;
 }
 
+/* BEST SELLER */
+
+.center-caption {
+  transform: translateY(-30%);
+  top: 30%;
+  bottom: initial !important;
+  background-color: rgba(85,85,85,0.5);
+  color: white;
+}
+
+.caption-text {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  text-align: center;
+  font-weight: 600;
+}
+
+.bestseller-desc {
+  background-color: rgba(85,85,85,0.5);
+  text-align: justify;
+  color: white;
+  font-size: 22px;
+  font-weight: 400;
+}
 
 /* MULTIPURPOSE */
 
