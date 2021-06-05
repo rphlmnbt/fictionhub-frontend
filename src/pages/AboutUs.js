@@ -3,8 +3,8 @@ import { Container } from "react-bootstrap"
 import AboutUsDescription from "../components/aboutUsComponents/AboutUsDescription"
 import Vision from "../components/aboutUsComponents/Vision"
 import Mission from "../components/aboutUsComponents/Mission"
-
 import Images from "../pseudoDb/images"
+import "../styles/pages/AboutUs.css"
 
 function AboutUs() {
     const founderImg = Images.images[6].url

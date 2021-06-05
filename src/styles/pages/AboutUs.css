@@ -1,0 +1,33 @@
+.aboutus-text {
+    font-family: 'Raleway', sans-serif;
+    font-size: 19px;
+    color: black;
+    color: rgb(85,85,85);
+}
+
+.mv-title {
+    font-family: 'Spinnaker', sans-serif;
+    font-size: 47px;
+    font-weight: 700;
+    color: black;
+    text-align: center;
+}
+
+.mv-text {
+    color: rgb(85,85,85);
+    font-family: 'Raleway', sans-serif;
+    font-size: 29px;
+    text-align: center;
+}
+
+.bg-blue {
+    background-color: rgba(185, 215, 211, 0.4);
+    margin-bottom: 10px;
+}
+
+.page-title {
+    font-family: 'Spinnaker', sans-serif;
+    font-size: 33px;
+    font-weight: 700;
+    text-align: center;
+}

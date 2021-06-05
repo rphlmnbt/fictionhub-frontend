@@ -4,6 +4,7 @@ import SocialIcons from "./footerComponents/SocialIcons"
 import BeOurFriend from "./footerComponents/BeOurFriend"
 import NeedAssistance from "./footerComponents/NeedAssistance"
 import StoreHours from "./footerComponents/StoreHours"
+import "../styles/components/Footer.css"
 
 function Footer() {
     return (

@@ -16,7 +16,7 @@ function NavMenu() {
 
     return (
         <div>
-            <Navbar className="navbar" variant="dark" expand="lg" sticky="top">
+            <Navbar className="navbar" variant="dark" expand="lg">
                 <LinkContainer to="/fictionhub-reactjs/">
                     <Navbar.Brand style={fhNameStyle}>
                         <Logo height="60px"/>

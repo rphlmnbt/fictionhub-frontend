@@ -4,6 +4,7 @@ import ContactUsDescription from "../components/contactUsComponents/ContactUsDes
 import ContactForm from "../components/contactUsComponents/ContactForm"
 import SocialMediaLinks from "../components/contactUsComponents/SocialMediaLinks"
 import MapLocation from "../components/contactUsComponents/MapLocation"
+import "../styles/pages/ContactUs.css"
 
 
 function ContactUs() {

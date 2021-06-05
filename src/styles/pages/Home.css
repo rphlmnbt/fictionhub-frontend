@@ -1,0 +1,68 @@
+.feat-box {
+    background-color: rgba(81,81,81,.5);
+    padding: 3vw 0;
+    margin: auto;
+    text-align: center;
+}
+
+.feat-text {
+    font-family: 'Spinnaker', sans-serif;
+    color: white;
+    font-weight: 700;
+    letter-spacing: 0.92px;
+    font-size: 46px;
+}
+
+.btn.feat-btn {
+    letter-spacing: 0.5px;
+    background-color: rgb(85,85,85);
+    color:white;
+    border-radius: 0px;
+    border:none;
+    align-items: center;
+    font-size: 18px;
+}
+
+.btn.feat-btn:hover {
+    background-color: rgb(250,250,250);
+    color: rgb(85,85,85);
+}
+.new-release-div {
+    background-color: rgb(102,102,102);
+    color: white;
+    height: 3rem;
+    text-align: center;
+    letter-spacing: 3.9px;
+    padding: 10px;
+    font-weight: 500;
+}
+
+.new-release-text {
+    font-family: 'Spinnaker', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    letter-spacing: 10.8px;
+    color: rgb(85,85,85);
+}
+
+.new-release-subtext {
+    font-family:'Raleway',sans-serif; 
+    font-size:19px; 
+    letter-spacing:0.3em; 
+    text-align:center
+}
+
+.btn.card-btn {
+    background-color: rgb(51,51,51);
+    border-radius: 0px;
+    border: none;
+    letter-spacing: 0.8px;
+    color: white;
+    width: 100%;
+    font-weight: 600;
+}
+
+.btn.card-btn:hover {
+    background-color: rgb(90,90,90);
+    color: white;
+}

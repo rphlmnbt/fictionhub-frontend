@@ -1,14 +1,13 @@
 import React, {useState} from "react"
 import {Carousel, Col, Row, Container, Image, Button} from "react-bootstrap"
 import Images from "../pseudoDb/images"
+import "../styles/pages/BestSellers.css"
 
 function BestSellers() {
     const [index, setIndex] = useState(0);
 
     const handleSelect = (selectedIndex, e) => {
         setIndex(selectedIndex);
-
-        console.log(selectedIndex);
     }
 
     return (
