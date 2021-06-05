@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/fictionhub-reactjs/static/css/main.77a49044.chunk.css",
-    "main.js": "/fictionhub-reactjs/static/js/main.b9d85afc.chunk.js",
-    "main.js.map": "/fictionhub-reactjs/static/js/main.b9d85afc.chunk.js.map",
+    "main.css": "/fictionhub-reactjs/static/css/main.0c3c7319.chunk.css",
+    "main.js": "/fictionhub-reactjs/static/js/main.f75322fa.chunk.js",
+    "main.js.map": "/fictionhub-reactjs/static/js/main.f75322fa.chunk.js.map",
     "runtime-main.js": "/fictionhub-reactjs/static/js/runtime-main.539e141f.js",
     "runtime-main.js.map": "/fictionhub-reactjs/static/js/runtime-main.539e141f.js.map",
     "static/css/2.7ba32266.chunk.css": "/fictionhub-reactjs/static/css/2.7ba32266.chunk.css",
-    "static/js/2.018e4472.chunk.js": "/fictionhub-reactjs/static/js/2.018e4472.chunk.js",
-    "static/js/2.018e4472.chunk.js.map": "/fictionhub-reactjs/static/js/2.018e4472.chunk.js.map",
+    "static/js/2.6b9bd246.chunk.js": "/fictionhub-reactjs/static/js/2.6b9bd246.chunk.js",
+    "static/js/2.6b9bd246.chunk.js.map": "/fictionhub-reactjs/static/js/2.6b9bd246.chunk.js.map",
     "static/js/3.78c92339.chunk.js": "/fictionhub-reactjs/static/js/3.78c92339.chunk.js",
     "static/js/3.78c92339.chunk.js.map": "/fictionhub-reactjs/static/js/3.78c92339.chunk.js.map",
     "index.html": "/fictionhub-reactjs/index.html",
     "static/css/2.7ba32266.chunk.css.map": "/fictionhub-reactjs/static/css/2.7ba32266.chunk.css.map",
-    "static/css/main.77a49044.chunk.css.map": "/fictionhub-reactjs/static/css/main.77a49044.chunk.css.map",
-    "static/js/2.018e4472.chunk.js.LICENSE.txt": "/fictionhub-reactjs/static/js/2.018e4472.chunk.js.LICENSE.txt"
+    "static/css/main.0c3c7319.chunk.css.map": "/fictionhub-reactjs/static/css/main.0c3c7319.chunk.css.map",
+    "static/js/2.6b9bd246.chunk.js.LICENSE.txt": "/fictionhub-reactjs/static/js/2.6b9bd246.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.539e141f.js",
     "static/css/2.7ba32266.chunk.css",
-    "static/js/2.018e4472.chunk.js",
-    "static/css/main.77a49044.chunk.css",
-    "static/js/main.b9d85afc.chunk.js"
+    "static/js/2.6b9bd246.chunk.js",
+    "static/css/main.0c3c7319.chunk.css",
+    "static/js/main.f75322fa.chunk.js"
   ]
 }
