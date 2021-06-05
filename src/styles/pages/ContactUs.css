@@ -1,0 +1,69 @@
+.contactus-text {
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    color: rgb(85,85,85);
+    text-align: center;
+}
+
+.form-text {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 22px;
+}
+
+.form-box {
+    background-color: rgb(85,85,85);
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.form-control.form-input {
+    background-color: rgba(130,130,130,.5);
+    color: white;
+    border: none;
+    max-width: 100%;
+    border-radius: 0%;
+}
+
+.btn.form-submit {
+    letter-spacing: 0.5px;
+    background-color: rgb(51,51,51);
+    color:white;
+    border-radius: 0px;
+    border:none;
+}
+
+.btn.form-submit:hover {
+    background-color: rgba(255,255,255);
+    color: rgb(85,85,85);
+}
+
+.follow-text {
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 5.7px;
+    color: rgb(85,85,85);
+}
+
+.map-container {
+    height: 500px;
+}
+
+.bg-blue {
+    background-color: rgba(185, 215, 211, 0.4);
+    margin-bottom: 10px;
+}
+
+.page-title {
+    font-family: 'Spinnaker', sans-serif;
+    font-size: 33px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.form-control.form-input::-webkit-input-placeholder {
+    color: white;
+}

@@ -1,22 +1,19 @@
 import React from "react"
-import { Container } from "react-bootstrap"
-import Col from "react-bootstrap/Col"
-import Button from "react-bootstrap/Button"
-import Form from "react-bootstrap/Form"
+import { Container, Col, Button, Form } from "react-bootstrap"
 
 function BeOurFriend() {
     return(
-        <Col lg={3} className="footerItems">
-            NEED ASSISTANCE?
+        <Col lg={3} className="footer-items">
+            BE OUR FRIEND
             <br />
             <div className="mt-3">
-                <Container className="subscribeBox">
+                <Container className="subscribe-box">
                     <Form>
                         <Form.Group controlId="formBasicEmail">
-                            <Form.Control className="emailBox" type="email" placeholder="Enter email" />
+                            <Form.Control className="email-box" type="email" placeholder="Enter email" />
                         </Form.Group>
                     </Form>
-                    <Button className="subscribeButton" block>Subscribe Now</Button>
+                    <Button className="subscribe-btn" block>Subscribe Now</Button>
                 </Container>
             </div>
         </Col>

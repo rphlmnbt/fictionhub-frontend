@@ -1,10 +1,5 @@
 import React from "react"
-import Jumbotron from "react-bootstrap/Jumbotron"
-import Container from "react-bootstrap/Container"
-import Row from "react-bootstrap/Row"
-import Col from "react-bootstrap/Col"
-import Button from "react-bootstrap/Button"
-
+import { Jumbotron, Container, Row, Col, Button } from "react-bootstrap"
 import Images from "../../pseudoDb/images"
 
 function FeaturedBanner() {
@@ -20,11 +15,11 @@ function FeaturedBanner() {
 
     return (
         <Jumbotron style={featImg} fluid>
-            <Container className="parentHeight">
-                <Row className="parentHeight">
-                    <Col md={6} className="featBox d-none d-sm-block"> 
-                        <p className="featText">FEATURED ITEMS</p>
-                        <Button className="featButton mt-3 px-5">SHOP NOW</Button>
+            <Container className="h-100">
+                <Row className="h-100">
+                    <Col md={6} className="feat-box d-none d-sm-block"> 
+                        <p className="feat-text">FEATURED ITEMS</p>
+                        <Button className="feat-btn mt-3 px-5">SHOP NOW</Button>
                     </Col>
                 </Row>
             </Container>

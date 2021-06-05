@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #4C6A6E;
+}
+
+.btn.custom-btn {
+    font-family: 'Raleway', sans-serif;
+    border: none;
+    color: white;
+    background-color: rgba(0,0,0,0);
+}
+
+div#basic-navbar-nav div a.item-style.nav-link {
+    color: rgba(255,255,255,.8)
+}
+
+.white-bar {
+    background-color: white;
+    height: 10px;
+}
+
+a.dropdown-item.active, a.dropdown-item:active {
+    background-color: rgb(85,85,85);
+    color: white;
+}
+
+#basic-nav-dropdown#basic-nav-dropdown {
+    color: rgba(255,255,255,.8)
+}

@@ -1,10 +1,11 @@
 import './App.css';
 import Header from "./components/Header"
-import Home from './components/Home'
-import AboutUs from "./components/AboutUs"
-import ContactUs from "./components/ContactUs"
+import Home from './pages/Home'
+import AboutUs from "./pages/AboutUs"
+import ContactUs from "./pages/ContactUs"
 import Footer from "./components/Footer"
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import BestSellers from './pages/BestSellers';
 
 
 
@@ -17,6 +18,7 @@ function App() {
           <Route exact path="/fictionhub-reactjs/" component={Home} />
           <Route path="/fictionhub-reactjs/aboutus" component={AboutUs} />
           <Route path="/fictionhub-reactjs/contactus" component={ContactUs} />
+          <Route path="/fictionhub-reactjs/bestsellers" component={BestSellers} />
         </Switch>
         <Footer />
       </Router>

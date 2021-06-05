@@ -1,9 +1,6 @@
-import Col from "react-bootstrap/Col"
-import Button from "react-bootstrap/Button"
-import Card from "react-bootstrap/Card"
-
+import React, { useState } from "react"
+import { Col, Button, Card } from "react-bootstrap"
 import Images from "../../pseudoDb/images"
-import { useState } from "react"
 
 function Cards(props) {
     const cardImg = Images.images[props.id].url
@@ -23,7 +20,7 @@ function Cards(props) {
                         () => {
                             setText(props.title)
                             console.log("leave")
-                        }} className="cardBtn py-3">{text}</Button>
+                        }} className="card-btn py-3">{text}</Button>
                 </Card.Body>
             </Card>
         </Col>

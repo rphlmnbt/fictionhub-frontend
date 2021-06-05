@@ -6,7 +6,7 @@ const images =
         },
         {
           "name" : "banner",
-          "url" : "https://lh3.googleusercontent.com/fpW-5QOXWFY6djlMIxwl5OUNcY4lcBZFzbAmatHdk-ncfz5qF-byc85Y2RCDB5sRTf-TUxpS8oABb5AhydVZqnLX2DV2ItfFqPaZ2Loi3UuwpKtlK4guXMLdhw_3HW0Yvv9pMFdYfnH4AW5ujteRrYtsH6bjj9UMx9mkZY10e6NbvB1lZqkaETPWLeqTe7EwSP6K6qxOPASvHQQHEJ4zmECBGAHnypGLBwwe-eKFEiHvEA654UAPlie1ZHIw2o9bn53QxBRmi_Ua_tS8Dm9ehHwNiP2eKEuPD4gzcn_lMPUYmOR6HYeIY7apDFLNXDhsCWUTcpnWHYOkClF1ajFghTh8vpqpkMAGIY14ZZRAuqO6T0IHkAJMADJMdFB1a8tbdvCAKRRBb1kw9T68JL6HqAXIKw7My1dyE9UQ9IlRV4D0j8-GG6PHG6A2JrhlwWEPGo9auQqk2HjpkHkja3LriYBU5cYog4avyNn6f49_iHPALy1S-ZLJ-WdXGUW1covlgWHAmkN1tLEW8mUlL509HNGol7Vc6EkSK7N48ithVTTodd05Hxsm44QWkoeZJ4fRJ1BmiduYRn2qMpKd5V3eLxEcsLVX7mXVoDzvENb7AZ2nzH4wF47bGfwDlxdMdHfoxZq__BJmX6gABziIA19oT2-kpouU2PbcnPqCNbAIDzhkMDRmQ5KCuBUtaugPb49_wm91r63DbhBmKkiZQAWmkw8=w802-h294-no?authuser=1"
+          "url" : "https://lh3.googleusercontent.com/mC3GgH6-TlReYbIhNFm2BWr_N-5WU5p1_k9vBbRBSlN749shqVCryNo740FUYEciVk2bgENfw6tR2O29k4MADu3okQukgQGsFWW1SNpVHljSIPdCQdB_U3oaf3dJ6UnF_LV6Yx_w5iqmFSgwfuE9QpzUDuX_JrGXnR5gRCVPfGcDZQn-a14Lv5qy_dYOQL1k51noRT4didhTYg5-3JUOzwr9czCgIFoH0c3aiaaIPv2VioeuPlg1RAZJWUqrAEaRZp5orZ6NRU1aHIIHYqQD6QGi70zPteX5ftCmKekcS74pVZR7svw8B1o66myx4bsz6347m6ocPGs8KZV-LIn7XglthMFmNTXWkwf6PPNoqI9m6PvjZ-Q_WpyYDxiNUvtv1GwexL-9PRJXdz7V875OxRGN1e3vPX5QYhIbqVBJjzqYxEOf5B11SBmXeShQ6w8KLD6digAVIwPrtoh2LllXRwQXBSTuCKUZ_Vo_fGeegMVz4iAPEcBWfy_TiMPKL9UXxhHjJUdKElXyB0weRTTRQ8IJM_TLoH1jf9FkHLQe35bz36AyfWVb6WXIenImys6w5aDaKaSh2fvCUCredKqsZ1iW2cZuYcqzGD3CQDvUoCHJxlcT0fYfO6E-_5yDUWX2p7PuE0O1sXnS7udnnMjPmXa5_n2plm9Jbnk4DqqogvygiybOOzMFNYlfa5hGFT432TM6ytSMgCN0jRHawUxKVQ8=w1364-h500-no?authuser=1"
         },
         {
           "name" : "bgNewReleases",
@@ -27,6 +27,14 @@ const images =
         {
           "name": "founder",
           "url" : "https://lh3.googleusercontent.com/2cL7avtg-H1P8Hv02b-qkOBjhWICI5v6yMkdNzALLOiwd5h-SI_0tzYGrFx1hlWJtjAivij1pWRDWwxET9z0fRS45vj0edI1S8izlziTUP7WfH_Qeo-58qic6Ak6gTdsoTTzYoELFjh7-llJfZFg5GSnUbp3mGwObw916ElT1J1LwsgcE6-gCTT03pd_VR5gNLZeT1IWXb5za-fEa8AJoZXeS10c-aiRBBhLWCBnMHKe0k33Q2aZUTA4Q9XFakQOqIhKUMIrNCmq8opug2cXTtQezQxxDCge5-5ZsS65TvVP1OAzjWzEba-O56Pv12e1xv4cxlJGekveZNLmZFFgV-GUj3tub0rZP6NLIhp2KQnDBpGtbXVKw7YpO0h0iUlGcKcdm2r2RmoxpwqEPiQzHUzoHOtcsQ36tCZ84-tHuiRsDcRwhWC2PB3XTDmcsfkgPiF3ayjU0sG8VEKNmDKzThuDE87km_pCuSxn__OSDlRCnNqzTVlvmjO2p50i4wZN3m__WOfrrOQDObFdit-MeLBFozU-1oQSaQDjezscpmNx0v6ZuwdQfQoDAEXW3CJ598qGzPTKJH1eG_ljDrod5dvSOzO9CdChA4hcrXmd3f4QavSUti6w7CzuWqn1HwVnlw7XUEOXFuHxQd8qNIMbzGyXEvBT_8Ym4SU5BvumYTrv-naRJoKeeBP3cICIA2luM3wvmwDly8EJVqNTdUwJBCw=w303-h302-no?authuser=1"
+        },
+        {
+          "name": "cover1",
+          "url" : "https://lh3.googleusercontent.com/nB1zw-D8tkI9RSukqMEeVkY0AHUQvYdZIVccMR3c_yRJT3hnomE5R0f5TKWQLroFJBJ5Z2Z7HULQOfWWqTHw3qQ4LEGoz4w2niT1SBUsZAo9fsS9nLFO_A4MJz9pV7kHKSp6CgS0LTOGACjYVPfgDHjSvgtxdNm9US_iEY-XDYuo2UXBWu2UMimYoPKAp2b69q0Zmhll99M8qITbaC92iurXK9u8tq9qMd-LYuAwNpC7FT4CVhr22DRUOH4rUuV1PJfGNEQZ0WhfSB-jPktS7SSZgQVfuVu5eHhH-VSoJpmteFfEbA7FVEkL-p73QWBXzFz_wlnvsRzc8lz_0-QXc-ljAP8_dZmjYmfOU8kga1-R3xeM4ydCIKQFr8mpbMazmVJ1_FJHd6WphE-cCl8ET_uxCxT1dDKPWXF1LaDYWKZsdEzI_mEy_nMrZ2o-sC9f0XW2KHDUq33Ew0Ptp24wL1bW8kBTSNn5bt2w_Y08Fnh1qf2vl0kcbuBBqTsskroyeiBPq2FoCOzaEPcjXymzHY4n4-4ROPhfASo90PEpUJo4Iv75MxUIdCwbijmE_OXnADR0_bd0rK6m_TGwQVoed7ANrnOqjpEHbp6qV6kMuenueZbDM1Z0MZH1wNTh8AaucWnbkMYm6F47wdB1iiKZ3D2ti2MosaroRHgApb8uTaxGpcn-YfVLa95xzXb8XsRlyZlaO-76A0PSTbk3g8Jas4Y=w1364-h500-no?authuser=1"
+        },
+        {
+          "name": "cover2",
+          "url" : "https://lh3.googleusercontent.com/L4EtFavJln-l82VN8WsiXRRuXislLYvyexBE3eUKiIPlKrQEfH1ZMZuEAk5gQ1k6RWSNU-ueAbjuC7uH-5HW4vFmBh9t36Z_YIz5IObgJ3Ar7jfVPjIC4vAZA44kp3GxM3H-Wq77knM5mlfLg8xmxu3ZQl3ePph1u6oLFD98NZgsyWCGaNknzP2_27BGXMlkOgGNbHJhlNS4dA5ieGzPq38hFmqdjzFgcHeGCaGD-zBCO8oLejUKvUvF1azwnYLPzyy6dFE2MeGYdYFVLX2uZW--96MszEmBK4w94w1XhS-UzZ9Iug1Ay0uwwBdw78wSkmy_rGWjJRYJz05U1ubLbbY4Ukj9GrbMoTZ-WMCIz3YH0PDNyOa8WurweqzjtTQWPZK2nOSRfZtEzgaT4MFM6gnF3xDYsBO_NLs-9uRBQPsjc5WsJCYKxRip8sc6Ml-BArTx5Wphn0TssDfwSE4lsDhZsf5YCDLlspAvqCTyP4Y18N00uS4OvTmjG7nvgVqVcKHHN3VuTv44sW9t6NyntMjtlccF3JjF0Z9ow_nyyY8rXuT9qcATMpJSSf3Uh18VhLPIt9X1_aAPYyyTh4pqiZUeyi6quVaUb5SscNC17olJ7kXXd_W06-xkZnIBhfcFNDRDCWa-gwKwN5NZH4DDi3NZslYK4hvKq4HOBGQOdbpl1IuZZZtTcIonaqXJjmjUDc3Epf8fRoL3YFAiGZorJIk=w1364-h500-no?authuser=1"
         }
     ]
 }
