@@ -1,11 +1,8 @@
 import React from "react"
+import { Navbar, Nav, NavDropdown } from "react-bootstrap"
+import { LinkContainer } from 'react-router-bootstrap'
 import Logo from "./Logo"
 import Accounts from "./Accounts"
-import Navbar from "react-bootstrap/Navbar"
-import Nav from "react-bootstrap/Nav"
-import NavDropdown from "react-bootstrap/NavDropdown"
-import {LinkContainer} from 'react-router-bootstrap'
-
 
 function NavMenu() {
 

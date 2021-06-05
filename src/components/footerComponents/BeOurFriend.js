@@ -1,13 +1,10 @@
 import React from "react"
-import { Container } from "react-bootstrap"
-import Col from "react-bootstrap/Col"
-import Button from "react-bootstrap/Button"
-import Form from "react-bootstrap/Form"
+import { Container, Col, Button, Form } from "react-bootstrap"
 
 function BeOurFriend() {
     return(
         <Col lg={3} className="footer-items">
-            NEED ASSISTANCE?
+            BE OUR FRIEND
             <br />
             <div className="mt-3">
                 <Container className="subscribe-box">

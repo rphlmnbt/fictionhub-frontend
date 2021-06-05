@@ -1,10 +1,10 @@
 import React from "react"
-import Col from "react-bootstrap/Col"
+import { Col } from "react-bootstrap"
 
 function NeedAssistance() {
     return(
         <Col lg={3} className="footer-items">
-            STAY CONNECTED
+            NEED ASSISTANCE?
             <br/>
             <div className="mt-3">
                 <div className="footer-text">

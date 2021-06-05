@@ -8,13 +8,13 @@ function Accounts() {
     return (
         <span>
             <Button className="custom-btn">
-                <IconContext.Provider value={{size:"20px", style: {margiLeft: "10px", marginRight:"10px"}}}>
+                <IconContext.Provider value={{size:"20px", style: {marginLeft: "10px", marginRight:"10px"}}}>
                     <FaUserCircle />
                 </IconContext.Provider>
                 Log In
             </Button>
             <Button className="custom-btn">
-                <IconContext.Provider value={{size:"20px", style: {margiLeft: "10px", marginRight:"10px"}}}>
+                <IconContext.Provider value={{size:"20px", style: {marginLeft: "10px", marginRight:"10px"}}}>
                     <FaShoppingCart />
                 </IconContext.Provider>
             </Button>

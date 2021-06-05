@@ -1,6 +1,5 @@
 import React from "react"
-import { Row, Col } from "react-bootstrap"
-import Image from "react-bootstrap/Image"
+import { Row, Col, Image } from "react-bootstrap"
 
 function Mission(props) {
     return (
