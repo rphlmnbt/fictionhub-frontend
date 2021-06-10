@@ -22,7 +22,7 @@ const images =
         }, 
         {
           "name": "batmanCover",
-          "url" : "https://lh3.googleusercontent.com/fife/ABSRlIouBbURXefoykSnEupDl7bimDz6NHi27cFU3CXR6lDpFfx1mck0r33POGqeV1yePs1hyGkZMoxT62_WjYeSMSmrQ3Qb-bJfEHFM3DbIgl9Y5mflxsZ0qdGYRhfn-4vUDyiHSnJauRn9h2m6SlMsy9Y1W2if5BolD92gArJXRgGx5zMrQzEFlpKND438oG_7KduAbLHiL7zdRI54r0FMt7CcrjgaK52I8PwML8wmy1BD_ARvLSvkI1CxfAnZc45urLOHscR7sdIqQLGktROPjstAAuYuFTGrWeAWAFA1KL2I7dywMN-eqrwMRkL3mcY69Tczx4b3KLmi5zcL28qPFYI9H35Kbk-FJxxVRy12o_SdK0cVz0Ui5sfz2RpMagJijeb4339wUbQv65mQjKKz81v5iae3FEn0o9_q4YrsLrTzvNuHts5M8LB-zoEdII-xIge9lh9aJn5AP_KdLMhi2XHc933QSQHL6tEylyIbI2kUm4GlKrVgweFsSPkxHbgzvzSXnnHfrDHFk37pjy_PxXZan3jgFAdAqO3W04bw20AU1GmDey7wBaOYcbbLrkqsPVsPRWgwvCYe7xeUPeUV2kECrYZU5hR-wcqp_pPPX14PkjbTVi7b1wPDWLiBNH5nxMp5s1OmVdJBPLurZoHQr7CXU4K5i7XBh6TGz6cwDai9ane2h3sMm2Z4fLMRMM2TN989YO4PAAFYoS8Zb9Dn81BJ3gxH1QgYZLJ8=s475-w317-h475-no?authuser=1"
+          "url" : "https://lh3.googleusercontent.com/pw/ACtC-3eFAJrG3wBbsRZQU0sl7KjWAkPnXN184uyGgNpcFrl9LdfFm6pDMpYZw5btHdt_A09-EDMan6C5WsbplOa-ijVQK82-yG5H1IgwOcKJiYsAf7Sshlsvuqp1dbcFaetVTUUbeZ3_mO-7Ke7Y9CMpkzcq=w317-h475-no?authuser=1"
         },
         {
           "name": "founder",

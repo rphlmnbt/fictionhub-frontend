@@ -4,8 +4,9 @@ import Home from './pages/Home'
 import AboutUs from "./pages/AboutUs"
 import ContactUs from "./pages/ContactUs"
 import Footer from "./components/Footer"
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import BestSellers from './pages/BestSellers';
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+
 
 
 

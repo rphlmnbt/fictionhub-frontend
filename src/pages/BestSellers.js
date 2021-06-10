@@ -1,5 +1,5 @@
 import React, {useState} from "react"
-import {Carousel, Col, Row, Container, Image, Button} from "react-bootstrap"
+import { Carousel, Col, Row, Container, Image, Button } from "react-bootstrap"
 import Images from "../pseudoDb/images"
 import "../styles/pages/BestSellers.css"
 
