@@ -15,11 +15,9 @@ function Cards(props) {
                     <Button variant="light" onMouseEnter={
                         () =>  {
                             setText(viewDetails)
-                            console.log("enter")
                         }} onMouseLeave={
                         () => {
                             setText(props.title)
-                            console.log("leave")
                         }} className="card-btn py-3">{text}</Button>
                 </Card.Body>
             </Card>
