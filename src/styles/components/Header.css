@@ -9,6 +9,11 @@
     background-color: rgba(0,0,0,0);
 }
 
+a.btn.custom-btn.active.btn-primary {
+    background-color: rgba(0,0,0,0);
+    border-color: rgba(0,0,0,0);
+}
+
 div#basic-navbar-nav div a.item-style.nav-link {
     color: rgba(255,255,255,.8)
 }
