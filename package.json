@@ -1,6 +1,6 @@
 {
   "name": "fictionhub",
-  "homepage": "http://rphlmnbt.github.io/fictionhub-reactjs",
+  "homepage": "http://rphlmnbt.github.io/fictionhub-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
